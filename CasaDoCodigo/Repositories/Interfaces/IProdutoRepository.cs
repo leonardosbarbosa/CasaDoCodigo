@@ -2,7 +2,7 @@
 using CasaDoCodigo.Services;
 using System.Collections.Generic;
 
-namespace CasaDoCodigo.Repositories
+namespace CasaDoCodigo.Repositories.Interfaces
 {
     public interface IProdutoRepository
     {
